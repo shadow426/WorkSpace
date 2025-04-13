@@ -6,34 +6,25 @@
       {
         "id": "6bf8a2c0d8b98d29",
         "type": "tabs",
-        "dimension": 84.52012383900929,
         "children": [
           {
             "id": "b916e57e19b8847c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-01-17.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-01-17"
+              "title": "新标签页"
             }
           },
           {
             "id": "ca57ced04810d980",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-01-17.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-01-17"
+              "title": "新标签页"
             }
           },
           {
@@ -68,37 +59,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04计划/技术日记.md",
+                "file": "05学习笔记/stm32/基本定时器功能.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "技术日记"
+              "title": "基本定时器功能"
             }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "393741658730d49c",
-        "type": "tabs",
-        "dimension": 15.479876160990713,
-        "children": [
+          },
           {
-            "id": "59c7fa1e7774f363",
+            "id": "8d9bb2d049ee54f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02项目/测试驱动开发/测试驱动开发C++.md",
+                "file": "05学习笔记/PCB设计/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "测试驱动开发C++"
+              "title": "未命名"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -117,7 +101,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -240,43 +225,53 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "bc9c94a46c707b1f",
+  "active": "8d9bb2d049ee54f5",
   "lastOpenFiles": [
-    "05学习笔记/USB/USB基本知识.md",
-    "05学习笔记/USB/picture/Pasted image 20250128100624.png",
-    "05学习笔记/USB/picture/Pasted image 20250128100242.png",
-    "05学习笔记/USB/picture/Pasted image 20250128095558.png",
-    "05学习笔记/USB/picture/Pasted image 20250128095120.png",
-    "05学习笔记/USB/picture/Pasted image 20250128094908.png",
-    "05学习笔记/USB/picture/Pasted image 20250128094830.png",
-    "05学习笔记/USB/picture/Pasted image 20250128094416.png",
-    "05学习笔记/USB/picture/Pasted image 20250127232547.png",
-    "05学习笔记/USB/picture/Pasted image 20250127232539.png",
-    "05学习笔记/USB/picture/Pasted image 20250127232423.png",
-    "05学习笔记/USB/picture",
-    "02项目/测试驱动开发/测试驱动开发C++.md",
-    "05学习笔记/USB",
+    "05学习笔记/PCB设计/picture/Pasted image 20250407211249.png",
+    "05学习笔记/PCB设计/picture/Pasted image 20250407211118.png",
+    "05学习笔记/stm32/picture/18.定时器从模式.md",
+    "05学习笔记/stm32/picture/picture/Pasted image 20250406094906.png",
+    "05学习笔记/stm32/picture/picture",
+    "05学习笔记/stm32/17.外部时钟与循迹模块.md",
+    "05学习笔记/stm32/picture/Pasted image 20250406093223.png",
+    "05学习笔记/stm32/picture/Pasted image 20250406093154.png",
+    "05学习笔记/stm32/picture/Pasted image 20250406092836.png",
+    "05学习笔记/stm32/picture/Pasted image 20250406092544.png",
+    "05学习笔记/stm32/基本定时器功能.md",
+    "05学习笔记/stm32/时钟树与时钟源.md",
+    "05学习笔记/stm32/picture/Pasted image 20250406091411.png",
+    "05学习笔记/stm32/picture/Pasted image 20250406091147.png",
+    "05学习笔记/stm32/picture/Pasted image 20250406091009.png",
+    "05学习笔记/stm32/picture/Pasted image 20250406090648.png",
+    "05学习笔记/stm32/问题记录.md",
+    "05学习笔记/stm32/电路图标识符.md",
+    "05学习笔记/stm32/外部中断.md",
+    "05学习笔记/stm32/picture",
+    "02项目/光剑/未命名.md",
+    "05学习笔记/stm32",
+    "02项目/万年历/万年历.md",
+    "02项目/光剑",
     "02项目/SerialDebuger.md",
+    "02项目/万年历",
+    "02项目/未命名.md",
     "02项目/qtUSB.md",
-    "05学习笔记/RTOS/FreeRTOS.md",
+    "02项目/测试驱动开发/测试驱动开发C++.md",
+    "05学习笔记/PCB设计/未命名.md",
+    "05学习笔记/PCB设计/picture",
     "04计划/技术日记.md",
-    "05学习笔记/RTOS/picture",
-    "03书籍/测试驱动开发 (Kent Beck) (Z-Library).pdf",
-    "05学习笔记/RTOS",
-    "05学习笔记",
+    "05学习笔记/PCB设计",
+    "05学习笔记/Qt/Qt随手记.md",
+    "05学习笔记/USB/USB基本知识.md",
+    "05学习笔记/Qt",
+    "05学习笔记/RTOS/FreeRTOS.md",
+    "05学习笔记/C++/MarkDown超级教程+Obsidian版+2022.1.12.pdf",
+    "05学习笔记/C++/Day2.md",
+    "100业余爱好/李涛后期.md",
+    "100业余爱好/Z50RMPRC_(Sc)11.pdf",
+    "05学习笔记/C++/Day1.md",
+    "05学习笔记/C++/MarkDown超级教程+Obsidian版+2022.1.12.md",
+    "05学习笔记/C++/图片链接.md",
     "02项目/QtCreator/QtCreator工具问题.md",
-    "01项目之外/笔记.md",
-    "Excalidraw/Drawing 2025-01-17 22.20.44.excalidraw.md",
-    "04计划",
-    "03书籍/未命名",
-    "2025-01-17.md",
-    "02项目/picture",
-    "02项目/QtCreator/picture",
-    "02项目/未命名 1.md",
-    "03书籍/未命名 1.md",
-    "03书籍/未命名.md",
-    "未命名 1.md",
-    "未命名 2.md",
-    "未命名.md"
+    "01项目之外/笔记.md"
   ]
 }
